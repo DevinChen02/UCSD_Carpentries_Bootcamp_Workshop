@@ -23,4 +23,4 @@
 4. [x] Create a new Project in RStudio:
 - Follow the instructions of this link to create a new project: https://ucsdlib.github.io/2023-06-20-UCSD/newproject.html
 
-
+## Day 1 
