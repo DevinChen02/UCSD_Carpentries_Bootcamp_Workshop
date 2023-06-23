@@ -24,3 +24,8 @@
 - Follow the instructions of this link to create a new project: https://ucsdlib.github.io/2023-06-20-UCSD/newproject.html
 
 ## Day 1 
+
+
+## Day 4
+Bash: 
+`open .` opens the GUI in your current working directory
